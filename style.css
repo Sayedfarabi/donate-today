@@ -87,6 +87,7 @@ p {
 .plan-area {
     border-radius: 10px;
     width: 30%;
+    height: 300px;
     margin: 2%;
     padding: 40px 20px;
 }
